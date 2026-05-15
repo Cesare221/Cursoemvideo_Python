@@ -39,6 +39,8 @@ O Curso de Python 3 do **Curso em Vídeo** é composto por 3 mundos que abrangem
 ├── .gitignore
 └── README.md
 
+````
+
 🚀 Como Executar
 
     Clone o repositório:
