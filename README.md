@@ -38,8 +38,7 @@ O Curso de Python 3 do **Curso em Vídeo** é composto por 3 mundos que abrangem
 │   └── ...
 ├── .gitignore
 └── README.md
-
-````
+```
 
 🚀 Como Executar
 
@@ -47,7 +46,12 @@ O Curso de Python 3 do **Curso em Vídeo** é composto por 3 mundos que abrangem
 
     bash
     git clone https://github.com/Cesare221/Cursoemvideo_Python
-    cd NOME_DO_REPO
+    cd Cursoemvideo_Python
+
+    Instale as dependências necessárias:
+
+    bash
+    python -m pip install -r requirements.txt
 
     Execute qualquer exercício:
 
@@ -55,6 +59,7 @@ O Curso de Python 3 do **Curso em Vídeo** é composto por 3 mundos que abrangem
     python "Mundo_1/001 - Deixando tudo pronto.py"
 
         💡 Dica: Se o nome tiver espaços, use aspas duplas " ou apostrófos ' no terminal.
+        O exercício 021 também precisa de um arquivo musica.mp3 dentro da pasta Mundo_1.
 
 📋 Conteúdo por Mundo
 <details> <summary><b>🌍 Mundo 1 — Fundamentos (Ex 001 a 035)</b></summary>

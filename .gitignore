@@ -1,10 +1,14 @@
-# Default ignored files
-/shelf/
-/workspace.xml
-# Editor-based HTTP Client requests
-/httpRequests/
-# Ignored default folder with query files
-/queries/
-# Datasource local storage ignored files
-/dataSources/
-/dataSources.local.xml
+# Ambiente virtual
+.venv/
+venv/
+
+# Cache e bytecode do Python
+__pycache__/
+*.pyc
+*.pyo
+Mundo_1/musica.mp3
+cursoemvideo.txt
+
+# Configurações do PyCharm/IDE
+.idea/
+*.iml
